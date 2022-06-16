@@ -19,7 +19,7 @@ const theme = {
     padding: "8px 24px 24px"
   },
   formSection: {
-    backgroundColor: "#ffffff",
+    backgroundColor: "#f0f0f0",
     borderRadius: "4px"
   },
   sectionHeader: {
